@@ -35,22 +35,22 @@ You made a workable budget! Congratulations! Now track it like you career depend
 If you’re anything like any of the people I know who work in film, you got into this industry because you are passionate about film. You fell in love with it. You’re creative and maybe even a little bit weird. That’s awesome. Don’t lose that fire. Don’t let a few restrictions keep you from making the amazing film that you have been dreaming about for years. There is always a way. Find it. Be an innovator. Be that creative genius you know you are deep down. You are smart enough. You are creative enough. You are skilled enough. Now, hop to it.
 
 ### Resources
-**[Topsheet] (https://www.topsheet.io/)** - Entertainment Payroll and Production Administration
+**[Topsheet](https://www.topsheet.io/)** - Entertainment Payroll and Production Administration
 <https://www.topsheet.io/>
 
-**[ShotPro] (https://www.shotprofessional.com)** - Previsualization, Storyboarding, and Shot Lists
+**[ShotPro](https://www.shotprofessional.com)** - Previsualization, Storyboarding, and Shot Lists
 <https://www.shotprofessional.com>
 
-**[Movie Slate] (https://www.movie-slate.com)** - Digital Slate that works on Phone and iPad
+**[Movie Slate](https://www.movie-slate.com)** - Digital Slate that works on Phone and iPad
 <https://www.movie-slate.com>
 
-**[SunSurvey] (https://www.sunsurveyor.com)** - Track the movement of the sun for
+**[SunSurvey](https://www.sunsurveyor.com)** - Track the movement of the sun for
 <https://www.sunsurveyor.com>
 
-**[ShareGrid] (https://www.sharegrid.com)** - Equipment rental 
+**[ShareGrid](https://www.sharegrid.com)** - Equipment rental 
 <https://www.sharegrid.com>
 
-**[No Film School] (https://nofilmschool.com)** - Film Education
+**[No Film School](https://nofilmschool.com)** - Film Education
 <https://nofilmschool.com>
 
 
