@@ -1,4 +1,4 @@
-# The Basics of Making a Low Budget Film
+# The Basics to Making a Low Budget Film
 
 ![Low Budget Filmmaking](https://user-images.githubusercontent.com/33143626/65919059-23630b00-e390-11e9-8342-f6c581efc13c.jpg "Low Budget Filmmaking")
 
