@@ -5,7 +5,7 @@
 
 The format of your blog needs to be in **Markdown Format** , for more information on that, please follow this [link](https://www.markdownguide.org/basic-syntax/#emphasis) 
 
-To check your work you can post it in a new file on this Github repository, then click preview, or use this [site](https://markdownlivepreview.com)
+To check your work you can post it in a new file on this Github repository, then click `Preview changes`, or use this [site](https://markdownlivepreview.com)
 
 ### Submitting A Blog
 
