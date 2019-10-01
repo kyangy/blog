@@ -17,5 +17,6 @@ The format of your blog needs to be in **Markdown Format** , for more informatio
 To check your work you can post it in a new file on this Github repository, then click `Preview changes`, or use this [site](https://markdownlivepreview.com)
 
 Adding images can be a little hard for new users of Markdown, but a simple way is to download the images you are wanting to post, then just drag and drop it in the body of the file you have created here, then move the line where you want it to be placed, preview to check your work (to preiveiw, you must have your file titled with the `.md`). When adding an image the the Markdown format should look somethign like this 
+
 `![Philadelphia's Magic Gardens. This place was so cool!](/assets/images/philly-magic-gardens.jpg "Philadelphia's Magic Gardens")`
 
