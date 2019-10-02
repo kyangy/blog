@@ -53,5 +53,3 @@ If you’re anything like any of the people I know who work in film, you got int
 **[No Film School](https://nofilmschool.com)** - Film Education
 <https://nofilmschool.com>
 
-
-Written by: Erin Pearson
