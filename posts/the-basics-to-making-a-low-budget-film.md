@@ -24,7 +24,7 @@ Bonus tips: find locations that come set dressed and strategize good, low cost f
 ### Use what you have
 Hire people you know. These can be friends, family, or crew mates you’ve worked with in the past. You know their expectations, they know yours and communication is easier because you know each other. Personal connection makes a better product and a happier set. I like the way Caleb describes it: 
 
-> From my experience, the smaller the crew the better, not only because of the cost, but due to the amount of organization, communication, and emotion each extra person adds to an already complicated process. Pick people you know and trust, who won’t throw a fit because you don’t have Red Bull.
+*"From my experience, the smaller the crew the better, not only because of the cost, but due to the amount of organization, communication, and emotion each extra person adds to an already complicated process. Pick people you know and trust, who won’t throw a fit because you don’t have Red Bull."*
 
 You don’t need multiple cameras. They almost never save time or money, unless it’s a big action shot. Again, this is a great opportunity to exercise your creativity, getting the coverage you need in a few shots at most.
 
