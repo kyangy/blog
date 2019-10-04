@@ -53,15 +53,15 @@ All in all, is film school bad? No. There are things you can learn and resources
 Working in the film industry is great. It’s a lot of fun. You get to be really creative and work with awesome people. I recommend it. But in all of your excitement, don’t forget that it’s fickle too. It requires hard work, determination, occasionally sleeping on a friend's couch, never losing sight of your goals and holding onto the passion that inspired your crazy journey in the first place.
 
 ### Resources
-**[Topsheet](https://topsheet.io)** -Entertainment Payroll and Production Administration
+**[Topsheet](https://topsheet.io)** - Entertainment Payroll and Production Administration
 <https://topsheet.io>
 
-**[Indie Film Hustle](https://indiefilmhustle.com)** -Fantastic podcast for filmmaker education 
+**[Indie Film Hustle](https://indiefilmhustle.com)** - Fantastic podcast for filmmaker education 
 
-**[Central Casting](https://www.centralcasting.com)** -Casting Agency
+**[Central Casting](https://www.centralcasting.com)** - Casting Agency
 
 **[No Film School](https://nofilmschool.com/)** - Videos, Podcasts and Blogs about filmmaking 
 
-**[Amy Clarke](https://www.amyclarkefilms.com/blog/filmmaking-facebook-groups)**- List of Facebook Film Groups**
+**[Amy Clarke](https://www.amyclarkefilms.com/blog/filmmaking-facebook-groups)** - List of Facebook Film Groups**
 
-**[Linkedin](https://www.linkedin.com/company/film-industry-network)** -LinkedIn Film Industry Network
+**[Linkedin](https://www.linkedin.com/company/film-industry-network)** - LinkedIn Film Industry Network
