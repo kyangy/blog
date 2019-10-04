@@ -56,6 +56,8 @@ Working in the film industry is great. It’s a lot of fun. You get to be really
 **[Topsheet](https://topsheet.io)** -Entertainment Payroll and Production Administration
 <https://topsheet.io>
 
+**[Indie Film Hustle](https://indiefilmhustle.com)** -Fantastic podcast for filmmaker education 
+
 **[Central Casting](https://www.centralcasting.com)** -Casting Agency
 
 **[No Film School](https://nofilmschool.com/)** - Videos, Podcasts and Blogs about filmmaking 
