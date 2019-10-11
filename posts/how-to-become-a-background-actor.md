@@ -16,6 +16,8 @@ Please, don’t go crazy on your hair and make-up. Do some concealer, foundation
 Congratulations on your new job! It may be a super easy job as far as “doing tasks” is concerned, but you still need to be professional. A lot of scheduling is needed to make sure you are where you need to be ON TIME, looking the part you are supposed to play and getting yourself cast for as many films, tv and commercials that you can in order to pay your bills. That’s right, y’all. You’re in control of your own destiny when you are an extra. You want to work, you need to submit photos, “about me” blurbs and sometimes short videos for each gig you qualify for. You can submit for things online at the Central Casting website and even elect to receive texts  when new jobs come up. Always respond to emails and text messages as quickly as possible. This can be the difference between getting a job and not getting a job.
 I also recommend that you follow Central Casting on Facebook. A typical Facebook post for a gig looks like this: 
 
+<img width="800" alt="Central Casting Call" src="https://user-images.githubusercontent.com/33143626/66686348-05b95f80-ec34-11e9-8853-314d29d81088.png">
+
 Let’s break it down. At the top, you will notice the “non-union” requirement. Therefore, to qualify, you must be non-union. Then you will see the dates that you must be available. If you cannot work these days, do not apply. If you are available those days and fit the union requirements, look at the physical requirements. This particular ad is looking for Asian and Hispanic women between the ages of 20-50. If you are not an Asian or a Hispanic woman aged 20-50, move along, this is not your gig. If you are, let’s keep going. Can you look like you belong in 1960 (hair style, make-up, finger nails, no visible tattoos, etc)? Are you dress size 0-6? Do you have natural hair color? If you fit all of these parameters, and only if you fit ALL of these parameters, you may then proceed to follow the instructions to submit yourself for the role. This is true for the emails, text messages and jobs on the Central Casting website. Please don’t be upset or offended if you don’t fit the parameters, there are always more jobs. They are making this request in order to set the tone and feel of the film. 
 
 ![Topsheet On Set Tips](https://user-images.githubusercontent.com/33143626/66685691-123cb880-ec32-11e9-9ec5-1a0a2a8fb7ae.jpg "On Film Set")
@@ -27,3 +29,10 @@ Yay! You booked a job! Plan to get there at least 10 minutes early to find parki
 All in all, BG work is a great thing to get involved in and could be a good paying job, or even a side gig, if you: pay attention, watch your schedule, show up with an attitude to work with a smile on your face, keep up to date on the casting websites and follow all instructions.
 
 ### Resources
+[Central Casting](https://www.centralcasting.com/) - Schedule your appointment to become a Background Actor and learn more about how to get involved with Central Casting
+
+[Central Casting Documents](https://www.centralcasting.com/essential-guide-registering-central-casting-agency/) - A list of all the documentation you need to bring with to sign up with Central Casting
+
+[Useful terms for BG actors](https://www.centralcasting.com/terms-every-background-actor-should-know/) - If you’re new on set, this list will help you understand what people are talking about.
+
+[SAG-AFTRA](https://www.sagaftra.org) - Sag-AFTRA’s website that has all your answers to all things SAG related.
