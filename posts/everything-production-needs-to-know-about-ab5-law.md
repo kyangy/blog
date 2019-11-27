@@ -1,3 +1,5 @@
+# EVERYTHING Productions Need to Know About the AB5 Law
+
 ![ab5 cover](https://user-images.githubusercontent.com/33143626/69761792-41918100-111d-11ea-8592-d070780def4a.png "How AB5 Law Affects Filmmakers")
 
 A new bill passed in California this year will affect how production companies do business. In September, [AB5 (Assembly Bill 5)](https://en.wikipedia.org/wiki/California_Assembly_Bill_5_(2019)) was past, which drastically restricts hiring employees on 1099. With some exemptions for doctors and lawyers, but rideshare (Uber & Lyft) as well as production companies seem to have been the primary target, as all drivers are 1099 and a large portion of film and music personnel are 1099. This bill came about to, supposedly, benefit the 1099 employees by requiring them to be offered benefits such as workman’s comp and medical. The issue comes down to the cost of these benefits, especially to smaller production companies, including: Commercials, Music Videos, Short Films, and even Student Films. Despite the costs, starting January 1, 2020 this bill takes effect. We want to help you figure out how to make this sustainable for your company and productions.
