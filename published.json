@@ -34,7 +34,7 @@
     "author": "Erin Pearson",
     "profile": "erin.png",
     "topics": "FILM, EXTRAS",
-    "featured": true,
+    "featured": "true",
     "updatedAt": "October 11, 2019",
     "createdAt": "October 11, 2019"
   },
@@ -47,7 +47,7 @@
     "author": "Erin Pearson",
     "profile": "erin.png",
     "topics": "FILM, EDUCATION",
-    "featured": true,
+    "featured": "true",
     "updatedAt": "October 4, 2019",
     "createdAt": "October 4, 2019"
   },
@@ -60,7 +60,7 @@
     "author": "Erin Pearson",
     "profile": "erin.png",
     "topics": "FILM, BUDGETING",
-    "featured": true,
+    "featured": "true",
     "updatedAt": "September 27, 2019",
     "createdAt": "September 27, 2019"
   }
