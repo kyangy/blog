@@ -31,6 +31,7 @@ Employer SS | 6.20% | after $132,900 in wages
 Employer MED | 1.45% | none
 Employer Federal Tax %| 8.25% | none
 
+
 The State Tax percentage is broken down as follows:
 
 Title | Amount | Cap |
@@ -38,6 +39,7 @@ Title | Amount | Cap |
 Employer EET0 |.10% | after $7,000 in wages
 Employer SUTA | 3.40 | after $7,000 in wages
 Employer State Tax % | 3.50% | none
+
 
 The next thing employers will be required to pay is Workers Comp for each employee. The rates will vary, but it’s usually around 3.5-4% of the wages that are paid by the employer. If you add the Federal, State and Workers Comp, that’s about an extra 15% that employers weren’t required to pay for independent contractors.
 
