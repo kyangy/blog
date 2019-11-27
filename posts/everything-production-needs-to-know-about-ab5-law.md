@@ -62,4 +62,4 @@ We have developed an automated payroll software that is the easiest payroll syst
 
 ### Final Thought
 
-This change in law sucks for a lot of productions out there, but it’s not insurmountable. If I know one thing about filmmakers, it’s that they are creative and resilient. There is always a way. And we are here for you. Please call, text or email us with any questions or projects you have. You can download and [try our app for free](https://topsheet.io), and we also send our crew down to your set in LA for free to walk your teams through the process, so you don’t waste any time.
+This change in the law sucks for a lot of productions out there, but it’s not insurmountable. If I know one thing about filmmakers, it’s that they are creative and resilient. There is always a way. And we are here for you. Please call, text or email us with any questions or projects you have. You can download and [try our app for free](https://topsheet.io), and we also send our crew down to your set in LA for free to walk your teams through the process, so you don’t waste any time.
