@@ -1,4 +1,17 @@
 [
+    {
+    "cover": "https://user-images.githubusercontent.com/56004248/66958879-0ed47300-f01e-11e9-80c3-78e558ed545b.jpeg",
+    "title": "EVERYTHING Productions Need to Know About the AB5 Law",
+    "url": "everything-productions-need-to-know-ab5-law",
+    "raw": "https://raw.githubusercontent.com/topsheet/blog/master/posts/everything-production-needs-to-know-about-ab5-law.md",
+    "preview": "A new bill passed in California this year will affect how production companies do business.",
+    "author": "Erin Pearson",
+    "profile": "erin.png",
+    "topics": "FILM, PITCHING",
+    "featured": "true",
+    "updatedAt": "November 27, 2019",
+    "createdAt": "November 27, 2019""
+  },
   {
     "cover": "https://user-images.githubusercontent.com/56004248/66958879-0ed47300-f01e-11e9-80c3-78e558ed545b.jpeg",
     "title": "How to Pitch your Script",
@@ -34,7 +47,7 @@
     "author": "Erin Pearson",
     "profile": "erin.png",
     "topics": "FILM, EDUCATION",
-    "featured": true,
+    "featured": false,
     "updatedAt": "October 4, 2019",
     "createdAt": "October 4, 2019"
   },
