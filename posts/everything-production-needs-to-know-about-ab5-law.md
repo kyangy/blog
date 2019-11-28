@@ -28,8 +28,8 @@ The Employer Federal Tax percentage is broken down as follows:
 
 Title | Amount | Cap |
 ---  | --- | ---
-Employer FUTA | 0.60% | after $7,000 in wages
-Employer SS | 6.20% | after $132,900 in wages
+Employer FUTA | 0.60% | stops after $7,000 in wages
+Employer SS | 6.20% | stops after $132,900 in wages
 Employer MED | 1.45% | none
 
 
@@ -40,8 +40,8 @@ The State Tax percentage is broken down as follows:
 
 Title | Amount | Cap |
 ---  | --- | ---
-Employer EET0 |.10% | after $7,000 in wages
-Employer SUTA | 3.40 | after $7,000 in wages
+Employer EET0 |.10% | stops after $7,000 in wages
+Employer SUTA | 3.40 | stops after $7,000 in wages
 
 **Total Employer State Tax:** 3.50%
 
