@@ -41,7 +41,7 @@ The State Tax percentage is broken down as follows:
 Title | Amount | Cap |
 ---  | --- | ---
 Employer EET |.10% | stops after $7,000 in wages
-Employer SUTA | 3.40 | stops after $7,000 in wages
+Employer SUTA | 3.40% | stops after $7,000 in wages
 
 **Total Employer State Tax:** 3.50%
 
