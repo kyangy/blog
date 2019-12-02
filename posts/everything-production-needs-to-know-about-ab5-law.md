@@ -53,7 +53,7 @@ Topsheet processes all of the tax information automatically, and even does it fo
 ### Options 
 Based on what we have discussed, you have several options:
 
-**1.Pay out of pocket and take the financial hit.:**
+**1. Pay out of pocket and take the financial hit.:**
 Obviously, this isn’t a great option either. This could cost you, or your investor, a lot of money. And if you are using someone else’s money, this would really hurt their taxes. A lot.
 
 **2. Try to fight back:**
