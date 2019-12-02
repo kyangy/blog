@@ -53,16 +53,13 @@ Topsheet processes all of the tax information automatically, and even does it fo
 ### Options 
 Based on what we have discussed, you have several options:
 
-**1. All crew gets LLC’s:**
-You might find some people in very specific areas of the film industry who would consider doing this, but, by and large, this won’t happen. Crews don’t want the extra cost of $800-$1,500/ year, not to mention the extra cost in tax processing. 
-
-**2. Pay out of pocket and take the financial hit.:**
+**1.Pay out of pocket and take the financial hit.:**
 Obviously, this isn’t a great option either. This could cost you, or your investor, a lot of money. And if you are using someone else’s money, this would really hurt their taxes. A lot.
 
-**3. Try to fight back:**
+**2. Try to fight back:**
 If you want to fight back, I’m sure you’d get a lot of verbal support. But this could easily cost you upwards of $250K in legal fees.
 
-**4. Accept the new law:**
+**3. Accept the new law:**
 Add, roughly, an additional 15% per new employee, into your new quotes so your production doesn’t take a hit. If asked, “why?” explain that the government doesn’t see film teams as independent contractors any more so we have to pay them more. It’s not ideal, but it is simple.
 
 We have developed an automated payroll software that is the easiest payroll system to use and it’s headache free. Most other payroll options would require you to hire extra crew members to manage it, further cutting into your funds. With Topsheet you don’t have to hire more people to process time cards, w4’s, and payroll taxes, saving you thousands of dollars. Our automations were built to help sets save money and save up to 25x more time on set. Depending on how big your production is, you could cut down weeks or months of work to merely hours or days. As well, we have created Smart Callsheets. They take minutes to create and distribute, and automatically notifies your crew of any changes. Not to mention, your crew gets paid faster than ever with our direct deposit.
