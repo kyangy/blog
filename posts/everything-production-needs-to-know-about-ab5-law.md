@@ -12,15 +12,20 @@ AB5 doesn’t mean that every single person working under the 1099 form needs to
 
 **A.** The hiring entity does not control or direct the worker in performing the working fact or under the terms of a contract.
 
-> Example: You own a store, but need to hire a plumber to take care of a situation. You don’t instruct the plumber on how to do his job because you are not his boss, you are a customer. But film crews need guidance. Producers arrange and direct them, for the most part, so it’s unlikely you’ll hit this one very often.
+> Example: Nike can hire a videographer as 1099 to work on a commercial or event since video production is not related to making shoes, but if your business is filmmaking, anyone who works with you in production, such as a camera op or production assistant, will be considered an employee. The businesses must be unrelated at their core.
 
 **B.** The work performed is outside the “usual course” of the hiring entity’s business.
 
-> Example: You own a store, but need to hire a plumber… But almost no production crew is outside of the “usual course” of hiring if you are a production company. So, probably no hits here either.
+> Example: If you are working on a film set and the film requires use of a car, but the car breaks down, you can hire a mechanic to fix the car as 1099. This is due to the mechanic not being a regular part of filmmaking.
 
 **C.** The worker is customarily engaged in an independently established trade, occupation, or business of the same nature as that involved in the work performed.
 
->Example: You own a plumbing business and are in need of a plumber on site for an emergency situation, but all of your plumber employees are on jobs/ too far to come quickly, so you call a self employed plumber who has his own LLC and Insurance and Markets himself. For instance, a Production Company can be hired independently by Nike, but that production company’s crew cannot be, since they do not all have LLC’s around their craft.
+>Example: You can hire a non union accountant for your taxes, since accountants regularly work across many fields and industries.
+
+Basically, because your business is making films or videos, any position who regularly works in making films or videos will now be considered an employee.
+
+Disclaimer: There are a lot of somewhat grey areas to consider as well so please consult a lawyer if there is an area you’re unsure about.
+
 Unless *all three* markers are hit, the people you have been employing as independents, must now become staff members, even short term in some instances. This means that these small productions will now be required to pay for things that they didn’t need to pay before. The first of which is employer payroll taxes, State and Federal.
 
 
