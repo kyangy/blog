@@ -8,6 +8,8 @@ A new bill passed in California this year will affect how production companies d
 
 Technically, the AB5 will have some effect on every production, but the major studios should be able to move forward unscathed. However, this will greatly affect: smaller commercial companies, short filmmakers, music videos, and student films, who use an LLC, S-Corp, or any other Business Entity to protect their project. Many of these smaller companies have solely hired crew under 1099’s, as well as many students set up LLCs for financial reasons for themselves and their investors. We at [Topsheet](https://topsheet.io), are the only ones who automate payroll processing down to a few taps and support all sizes of productions making this process easier. 
 
+It is important for buisness owners to know, AB5 gives the state Labor and Workforce Development Agency the power to fine companies $5,000 to $25,000 per violation for willfully misclassifying workers and allows the state Labor Commissioner to assess additional civil and liquidated damages. That means for each crew member you hire under the wrong classification they can fine you, on a set of even just 10 crew that is between $50,000-$250,000 fine.
+
 AB5 doesn’t mean that every single person working under the 1099 form needs to become an employee, there are some exemptions. 1099 vs employee standards have always had regulations, California has just tightened the parameters, a lot. They have provided us with the ABC test to determine whether the independent contractor can remain independent or if they need to be added to the payroll. The parameters are as follows:
 
 **A.** The hiring entity does not control or direct the worker in performing the working fact or under the terms of a contract.
