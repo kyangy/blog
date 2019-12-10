@@ -1,7 +1,7 @@
 # [AB5 LAW ABC's] Is your Production Company AB5 Exempt?
 
 
-![ABCs AB5 Exemptions for Productions](https://user-images.githubusercontent.com/33143626/70483094-54507200-1a9c-11ea-9968-896d4c4bc672.png "AB5 ABC's and Exmeptions for Production")
+![ABCs AB5 Exemptions for Productions](https://user-images.githubusercontent.com/33143626/70555867-b9f03d00-1b34-11ea-8199-6d519a6d14be.png "AB5 ABC's and Exmeptions for Production")
 
 With the AB5 bill weeks away from being implemented, in January, we should take a minute to break the ABCs down a little further, checking if your production company is exempt from this law.  Let’s start by wrapping our minds around the intention that the CA Supreme Court has, which is basically setting the default as crew members are employees unless you can prove, irrefutably, you are a contractor, thereby protecting employees from companies exploiting loopholes in the law. Making it  intentionally difficult to be classified as an independent contractor status. I believe the goal is two-fold: 1) some people have been getting screwed over because of some companies insisting the people they hire be independent contractors and they aren’t being treated well 2) the massive tax revenue that will be achieved (an estimated 8 billion dollars). It’s the classic, “one disruptive kid ruins the class party for everyone and the teacher eats all the marshmallows in the jar” situation. 
 
