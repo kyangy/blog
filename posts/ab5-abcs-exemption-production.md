@@ -58,4 +58,6 @@ Here’s what this all boils down to: the people you need to work with to make y
 
 ### Resources
 
-[AB5 Bill](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201920200AB5)
+[AB5 Bill](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201920200AB5): This is the Goverment page for the legal document.
+
+[Topsheet](https://topsheet.io): Production & Entertainment Payroll and Administration service that automates the proccess, making the transistion easier to payroll.
