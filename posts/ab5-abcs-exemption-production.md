@@ -55,3 +55,7 @@ Additionally, the Borello test borrows 5 more factors from the Fair Labor Standa
 ### Final Thoughts
 
 Here’s what this all boils down to: the people you need to work with to make your film are employees now and if you have specific questions, talk to a lawyer, to find out for sure, to avoid fines or potential jail time. This law is broad on purpose, so finding loopholes will be really tricky at best, but probably impossible. Please, please, please, err on the side of caution and consult a lawyer. Topsheet offers a myriad of tools and automations for production companies that are up to 25x faster than anything else on the market, as well as, we have a free mobile app for tablets and phones that make all of this easy for productions; union or non-union. If you have any questions please reach out, we would love to help you.
+
+### Resources
+
+[AB5 Bill](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201920200AB5)
