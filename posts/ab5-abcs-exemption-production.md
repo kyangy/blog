@@ -1,4 +1,4 @@
-# [AB5 LAW ABC's] Is your Production Company AB5 Exempt?
+# [AB5 Law ABC's] Is your Production Company AB5 Exempt?
 
 
 ![ABCs AB5 Exemptions for Productions](https://user-images.githubusercontent.com/33143626/70555867-b9f03d00-1b34-11ea-8199-6d519a6d14be.png "AB5 ABC's and Exmeptions for Production")
