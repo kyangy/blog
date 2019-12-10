@@ -3,9 +3,10 @@
 
 ![ABCs AB5 Exemptions for Productions](https://user-images.githubusercontent.com/33143626/70555867-b9f03d00-1b34-11ea-8199-6d519a6d14be.png "AB5 ABC's and Exmeptions for Production")
 
-With the AB5 bill weeks away from being implemented, in January, we should take a minute to break the ABCs down a little further, checking if your production company is exempt from this law.  Let’s start by wrapping our minds around the intention that the CA Supreme Court has, which is basically setting the default as crew members are employees unless you can prove, irrefutably, you are a contractor, thereby protecting employees from companies exploiting loopholes in the law. Making it  intentionally difficult to be classified as an independent contractor status. I believe the goal is two-fold: 1) some people have been getting screwed over because of some companies insisting the people they hire be independent contractors and they aren’t being treated well 2) the massive tax revenue that will be achieved (an estimated 8 billion dollars). It’s the classic, “one disruptive kid ruins the class party for everyone and the teacher eats all the marshmallows in the jar” situation. 
+With the AB5 bill only a couple weeks away, it is a good time to break the ABCs , to see if your production company is exempt.  In September, the CA Supreme Court decided that unless a company can irrefutably prove otherwise, a hire is an employee. Thereby protecting employees from companies exploiting loopholes in the law. Making it intentionally difficult to be classified as an independent contractor. The Supreme Court's goal seems to be two-fold. First, stopping companies from using contractors' agreement, to avoid paying benefits to crew members. Second, the tax revenue from this law will be an estimated $8 billion. It’s the classic, “one disruptive kid ruins the class party for everyone” situation. 
 
-If you haven’t yet, read our article on the [essentials of the AB5 law](https://topsheet.io/blog/everything-productions-need-to-know-ab5-law), as it gives a good overview of how this affects you, as a filmmaker, and what options you have to overcome this disruptive bill. It’s a serious pain in the butt because so many people working in film prefer to work as 1099, but almost everyone will have to become an employee, so the transition is massive. But you’re not in this alone, we are here to help. Topsheet is an entertainment payroll app that automates the process so you don’t have to hire an outside payroll company to handle all of this. We can save you days or weeks of work, depending on the size of your production, saving you tons of time and, therefore, money.
+If you haven’t yet, read our article on the [AB5 law basics](https://topsheet.io/blog/everything-productions-need-to-know-ab5-law), it gives a good overview of how this affects you as a filmmaker. AB5 can be a serious pain in the butt, to those people working in film who prefer to work as a contractor. But we are here to help. Topsheet is an entertainment payroll app that automates the process so you don’t have to hire extra hands to handle this. We can save you days or weeks of work, saving you not only time but also money.
+
 
 ### The ABCs of the AB5
 
@@ -17,8 +18,8 @@ B) The worker performs work that is outside the usual course of the hiring entit
 
 C) The worker is customarily engaged in an independently established trade, occupation, or business of the same nature as the work performed.
 > Example: Kraft Services would likely be an employee because they are under the control and direction of the hiring entity. They are told when and where and how to perform their job. Krafty is on every set, so it is a usual course of the hiring entity’s business and they don’t work outside the entertainment industry.
-	Hiring a chef would probably fall under the “employee” category because they are under the control and direction of the hiring entity. Their hours are controlled as well as the type of food prepared and the time frame in which it is prepared.
-	Hiring a Catering Company can be in the independent contractor category because they are not under the control or direction of the hiring entity. They set their hours and their wages. Caterers have an off-site kitchen and they have their own established business.
+    Hiring a chef would probably fall under the “employee” category because they are under the control and direction of the hiring entity. Their hours are controlled as well as the type of food prepared and the time frame in which it is prepared.
+    Hiring a Catering Company can be an independent contractor  because they are not under the control or direction of the hiring entity. They set their hours and their wages. Caterers have an off-site kitchen and they have their own established business.
 
 ### But That’s Not All, Folks.
 
@@ -54,7 +55,7 @@ Additionally, the Borello test borrows 5 more factors from the Fair Labor Standa
 
 ### Final Thoughts
 
-Here’s what this all boils down to, the people you need to work with to make your film are employees now and if you have specific questions, talk to a lawyer, to find out for sure, to avoid fines or potential jail time. This law is broad on purpose, so finding loopholes will be really tricky at best, but probably impossible. Please, please, please, err on the side of caution and consult a lawyer. [Topsheet](https://topsheet.io) offers a myriad of tools and automation for production companies that are up to 25x faster than anything else on the market, as well as, we have a free mobile app for tablets and phones that make all of this easy for productions; union or non-union. If you have any questions please reach out, we would love to help you.
+Basically,  your crew is now employees in most cases. If you have specific questions, please talk to a lawyer, to find out for sure, to avoid fines or potential jail time. This law is broad on purpose, so finding loopholes will be tricky at best, but almost impossible. Please, please, please, err on the side of caution and consult a lawyer. [Topsheet](https://topsheet.io) offers a myriad of tools and automation for production companies, up to 25x faster than anything else on the market. As well, we have a free
 
 ### Resources
 
