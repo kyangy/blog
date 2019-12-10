@@ -7,7 +7,7 @@ With the AB5 bill weeks away from being implemented, in January, we should take 
 
 If you haven’t yet, read our article on the [essentials of the AB5 law](https://topsheet.io/blog/everything-productions-need-to-know-ab5-law), as it gives a good overview of how this affects you, as a filmmaker, and what options you have to overcome this disruptive bill. It’s a serious pain in the butt because so many people working in film prefer to work as 1099, but almost everyone will have to become an employee, so the transition is massive. But you’re not in this alone, we are here to help. Topsheet is an entertainment payroll app that automates the process so you don’t have to hire an outside payroll company to handle all of this. We can save you days or weeks of work, depending on the size of your production, saving you tons of time and, therefore, money.
 
-### The ABCs of the ABCs
+### The ABCs of the AB5
 
 As a recap, the ABCs are what the state now recognizes as the definition of “independent contractor”. All three of these instances must be met in order to be considered an independent contractor. If one of these factors is missing, the person hired must be an employee. It’s a very broad net.
 
