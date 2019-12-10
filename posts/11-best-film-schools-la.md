@@ -1,5 +1,7 @@
 # 11 Best Film Schools in Los Angeles
 
+![Best Film Schools LA](https://user-images.githubusercontent.com/33143626/70558187-41d84600-1b39-11ea-9ebf-832ffc888222.png "Best Film Schools LA")
+
 LA is known for film and entertainment, so it stands to reason that it should also have the best film schools. If you read our other article on [is film school is right for you](https://topsheet.io/blog/should-i-go-to-film-school) and decided, “yes, it is,” then this is the perfect follow up: which school is right for you? The best way to ensure you are getting the most out of your education is to make as many projects as you can using all the resources at your disposal. Our Topsheet payroll app is a very useful tool for film students as it is free to download, easy to use and saves time on the mundane aspects of film, so you can focus on the creativity and create more projects during your time as a film student. We have compiled a list of the best 11 schools that are either strictly film schools or have good film courses.
 
 
