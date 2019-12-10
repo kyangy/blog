@@ -54,7 +54,7 @@ Additionally, the Borello test borrows 5 more factors from the Fair Labor Standa
 
 ### Final Thoughts
 
-Here’s what this all boils down to, the people you need to work with to make your film are employees now and if you have specific questions, talk to a lawyer, to find out for sure, to avoid fines or potential jail time. This law is broad on purpose, so finding loopholes will be really tricky at best, but probably impossible. Please, please, please, err on the side of caution and consult a lawyer. Topsheet offers a myriad of tools and automation for production companies that are up to 25x faster than anything else on the market, as well as, we have a free mobile app for tablets and phones that make all of this easy for productions; union or non-union. If you have any questions please reach out, we would love to help you.
+Here’s what this all boils down to, the people you need to work with to make your film are employees now and if you have specific questions, talk to a lawyer, to find out for sure, to avoid fines or potential jail time. This law is broad on purpose, so finding loopholes will be really tricky at best, but probably impossible. Please, please, please, err on the side of caution and consult a lawyer. [Topsheet](https://topsheet.io) offers a myriad of tools and automation for production companies that are up to 25x faster than anything else on the market, as well as, we have a free mobile app for tablets and phones that make all of this easy for productions; union or non-union. If you have any questions please reach out, we would love to help you.
 
 ### Resources
 
@@ -63,3 +63,5 @@ Here’s what this all boils down to, the people you need to work with to make y
 [Borello test](https://www.dir.ca.gov/dlse/faq_independentcontractor.htm): Information on the previous way that CA would judge an Independent Contractor.
 
 [Topsheet](https://topsheet.io): Production & Entertainment Payroll and Administration service that automates the process, making the transition easier to payroll.
+
+[AB5 Essentials Blog](https://topsheet.io/blog/everything-productions-need-to-know-ab5-law): Blog about how the AB5 Law will affect Production Companies. 
