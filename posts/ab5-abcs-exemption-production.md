@@ -10,8 +10,11 @@ If you haven’t yet, read our article on the [essentials of the AB5 law](https:
 ### The ABCs of the ABCs
 
 As a recap, the ABCs are what the state now recognizes as the definition of “independent contractor”. All three of these instances must be met in order to be considered an independent contractor. If one of these factors is missing, the person hired must be an employee. It’s a very broad net.
+
 A) The worker is free from the control and direction of the hiring entity in connection with the performance of the work, both under the contract for the performance of the work and in fact.
+
 B) The worker performs work that is outside the usual course of the hiring entity’s business.
+
 C) The worker is customarily engaged in an independently established trade, occupation, or business of the same nature as the work performed.
 > Example: Kraft Services would likely be an employee because they are under the control and direction of the hiring entity. They are told when and where and how to perform their job. Krafty is on every set, so it is a usual course of the hiring entity’s business and they don’t work outside the entertainment industry.
 	Hiring a chef would probably fall under the “employee” category because they are under the control and direction of the hiring entity. Their hours are controlled as well as the type of food prepared and the time frame in which it is prepared.
@@ -20,19 +23,33 @@ C) The worker is customarily engaged in an independently established trade, occu
 ### But That’s Not All, Folks.
 
 Prior to the ABC test, there was the Borello test which considers the employer’s “right to control work details”. Under the right-of-control test it is, “not how much control a hirer exercises, but how much control the hirer retains the right to exercise.” Based on the verbiage, most assume that employers must comply with both the ABC test and the Borello test. The Borello test factors are as follows:
+
 1)Whether the one performing services is engaged in a distinct occupation or business;
+
 2)The kind of occupation, with reference to whether, in the locality, the work is usually done under the direction of the principal or by a specialist without supervision;
+
 3)The skill required in the particular occupation;
+
 4)Whether the principal or the worker supplies the instrumentalities, tools, and the place of work for the person doing the work;
+
 5)The length of time for which the services are to be performed;
+
 6)The method of payment, whether by the time or by the job;
+
 7)Whether or not the work is part of the regular business or the principal; and
+
 8)Whether or not the parties believe they are creating the relationship of employer-employee.
+
 Additionally, the Borello test borrows 5 more factors from the Fair Labor Standards Act to determine a worker’s classification:
+
 9)The alleged employee’s opportunity for profit or loss depending on his managerial skill;
+
 10)The alleged employee’s investment in equipment or materials required for his task, or his employment of helpers;
+
 11)Whether the service rendered requires a special skill;
+
 12)The degree of permanence of the working relationship; and
+
 13)Whether the service rendered is an integral part of the alleged employer’s business.
 
 ### Final Thoughts
