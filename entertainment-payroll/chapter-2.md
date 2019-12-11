@@ -20,8 +20,8 @@ EP is very good for handling union agreements, talent payments, and pension & he
 **ENTERTAINMENT PARTNERS PAYROLL CONTACT INFO**
 
 - **Headquarters**: Burbank,  CA
-- **Entertainment Partners Payroll Address**: 2950 N. Hollywood Way, Burbank, CA 91505
-- **Entertainment Partners Phone Number**:  (818) 955-6000
+- **Entertainment Partners Payroll Address**: [2950 N. Hollywood Way, Burbank, CA 91505](https://www.google.com/maps/place/2950+N+Hollywood+Way,+Burbank,+CA+91505/data=!4m2!3m1!1s0x80c295aa4363f79f:0x33ce3277ad30c797?sa=X&ved=2ahUKEwi9iu_6t67mAhURFjQIHcCPBlcQ8gEwAHoECAsQAQ)
+- **Entertainment Partners Phone Number**: [(818) 955-6000](tel:8189556000)
 
 ## 2. [Media Services](https://www.mediaservices.com/)
 
@@ -34,8 +34,8 @@ Media Services offer a line of apps called ShowBiz. Their focus is to tackle bud
 **MEDIA SERVICES CONTACT INFO**
 
 - **Headquarters**: Westwood, CA
-- **Media Services Phone Number**: (310) 471-9369
-- **Media Services Address**: 500 S Sepulveda Blvd. Floor 4, Los Angeles, CA 90049
+- **Media Services Address**: [500 S Sepulveda Blvd. Floor 4, Los Angeles, CA 90049](https://www.google.com/maps/place/500+S+Sepulveda+Blvd+Floor+4,+Los+Angeles,+CA+90049/data=!4m2!3m1!1s0x80c2bc9774791b27:0xd550232416e790e1?sa=X&ved=2ahUKEwiMuL6HuK7mAhWBMH0KHdmvBBcQ8gEwAHoECAsQAQ)
+- **Media Services Phone Number**: [(310) 471-9369](tel:3104719369)
 
 ## 3. [Cast and Crew](http://castandcrew.com/)
 
@@ -48,8 +48,8 @@ Like the other payroll companies, you will need to request a quote for your prod
 **CAST AND CREW CONTACT INFO**
 
 - **Headquarters**: Burbank, CA
-- **Cast and Crew Payroll Services Phone Number**: (818) 848-6022
-- **Cast and Crew Payroll Services Address**: 2300 Empire Avenue, 5th Floor, Burbank, CA 91504
+- **Cast and Crew Payroll Services Address**: [2300 Empire Avenue, 5th Floor, Burbank, CA 91504](https://www.google.com/maps/place/2300+Empire+Ave+5th+Floor,+Burbank,+CA+91504/data=!4m2!3m1!1s0x80c2950d8363abb7:0x28770e3218aaeb5?sa=X&ved=2ahUKEwiRpbiluK7mAhXFGDQIHeZJBnEQ8gEwAHoECAsQAQ)
+- **Cast and Crew Payroll Services Phone Number**: [(818) 848-6022](8188486022)
 
 ## 4. [ABS Payroll](https://abspayroll.com/)
 
@@ -60,5 +60,5 @@ ABS charges a weekly fee for their services. They currently do not have software
 **ABS ENTERTAINMENT PAYROLL SERVICES CONTACT INFO**
 
 - __Headquarters__: Burbank, CA
-- **ABS Entertainment Payroll Services Address**: 7530 N Glenoaks Blvd, Set 100, Burbank, CA 91504
-- **ABS Entertainment Payroll Services Phone Number**: (818) 848-9200
+- **ABS Entertainment Payroll Services Address**: [7530 N Glenoaks Blvd, Ste 100, Burbank, CA 91504](https://www.google.com/maps/place/7530+N+Glenoaks+Blvd+%23100,+Burbank,+CA+91504/@34.208187,-118.3448679,17z/data=!3m1!4b1!4m5!3m4!1s0x80c294fe391d415f:0x77bb30d2b69a28b5!8m2!3d34.208187!4d-118.3426792)
+- **ABS Entertainment Payroll Services Phone Number**: [(818) 848-9200](tel:8188489200)
