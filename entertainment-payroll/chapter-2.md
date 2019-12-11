@@ -19,9 +19,9 @@ EP is very good for handling union agreements, talent payments, and pension & he
 
 **ENTERTAINMENT PARTNERS PAYROLL CONTACT INFO**
 
-- Headquarters: Burbank,  CA
-- Entertainment Partners Payroll Address: 2950 N. Hollywood Way, Burbank, CA 91505
-- Entertainment Partners Phone Number:  818-955-6000
+- **Headquarters**: Burbank,  CA
+- **Entertainment Partners Payroll Address**: 2950 N. Hollywood Way, Burbank, CA 91505
+- **Entertainment Partners Phone Number**:  (818) 955-6000
 
 ## 2. [Media Services](https://www.mediaservices.com/)
 
@@ -33,9 +33,9 @@ Media Services offer a line of apps called ShowBiz. Their focus is to tackle bud
 
 **MEDIA SERVICES CONTACT INFO**
 
-- Headquarters: Westwood, CA
-- Media Services Phone Number: 310-471-9369
-- Media Services Address: 500 S Sepulveda Blvd. Floor 4, Los Angeles, CA 90049
+- **Headquarters**: Westwood, CA
+- **Media Services Phone Number**: (310) 471-9369
+- **Media Services Address**: 500 S Sepulveda Blvd. Floor 4, Los Angeles, CA 90049
 
 ## 3. [Cast and Crew](http://castandcrew.com/)
 
@@ -47,18 +47,18 @@ Like the other payroll companies, you will need to request a quote for your prod
 
 **CAST AND CREW CONTACT INFO**
 
-- Headquarters: Burbank, CA
-- Cast and Crew Payroll Services Phone Number: 818-848-6022
-- Cast and Crew Payroll Services Address: 2300 Empire Avenue, 5th Floor, Burbank, CA 91504
+- **Headquarters**: Burbank, CA
+- **Cast and Crew Payroll Services Phone Number**: (818) 848-6022
+- **Cast and Crew Payroll Services Address**: 2300 Empire Avenue, 5th Floor, Burbank, CA 91504
 
 ## 4. [ABS Payroll](https://abspayroll.com/)
 
-ABS is used by indie film or commercials for payroll processing. They are tailored for low-budget projects. ABS Payroll can help accommodate explainer video shoots to low-budget feature films. 
+[ABS](https://abspayroll.com/) is used by indie film or commercials for payroll processing. They are tailored for low-budget projects. ABS Payroll can help accommodate explainer video shoots to low-budget feature films. 
 
 ABS charges a weekly fee for their services. They currently do not have software supports in place. You will need to contact them directly to get the status on a check.
 
 **ABS ENTERTAINMENT PAYROLL SERVICES CONTACT INFO**
 
-- Headquarters: Burbank, CA
-- ABS Entertainment Payroll Services Address: 7530 N Glenoaks Blvd, Set 100, Burbank, CA 91504
-- ABS Entertainment Payroll Services Phone Number: 818-848-9200
+- __Headquarters__: Burbank, CA
+- **ABS Entertainment Payroll Services Address**: 7530 N Glenoaks Blvd, Set 100, Burbank, CA 91504
+- **ABS Entertainment Payroll Services Phone Number**: (818) 848-9200
