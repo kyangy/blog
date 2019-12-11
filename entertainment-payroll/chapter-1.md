@@ -2,7 +2,7 @@
 
 Production payroll services are distinct from other kinds of third-party payroll services. A production payroll firm is a full-service provider. The payroll provider processes accurate paychecks on time. They also pay all [payroll taxes](https://taxfoundation.org/what-are-payroll-taxes-and-who-pays-them/), [unemployment](https://www.edd.ca.gov/unemployment/), union fees, and [workers' compensation insurance](https://www.dol.gov/general/topic/workcomp).  The production payroll company works with the production accountants to submit payroll weekly.
 
-![Production Payroll Services](../imgs/chapter-1/numbers.jpg)
+![Production Payroll Services](https://github.com/topsheet/blog/blob/master/imgs/chapter-1/numbers.jpg?raw=true)
 
 ## The Role of the Entertainment Payroll Company
 
