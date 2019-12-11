@@ -26,11 +26,11 @@ In short, yes. The [Fair Labor Standards Act (FLSA)](https://ofm.wa.gov/state-hu
 
 Here is a simple test to see if you can still pay someone as 1099 vs a W2 employee. Going ahead and answer the ABCs of AB5:
 
-A. The hiring entity does not control or direct the worker in performing the working fact or under the terms of a contract.
++ A. The hiring entity does not control or direct the worker in performing the working fact or under the terms of a contract.
 
-B. The work performed is outside the “usual course” of the hiring entity’s business.
++ B. The work performed is outside the “usual course” of the hiring entity’s business.
 
-C. The worker is customarily engaged in an independently established trade, occupation, or business of the same nature as that involved in the work performed.
++ C. The worker is customarily engaged in an independently established trade, occupation, or business of the same nature as that involved in the work performed.
 
 Here are some helpful [AB5](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201920200AB5) resources regarding productions:
 

@@ -4,23 +4,14 @@ Picking the right production payroll company is important to the success of your
 
 We listed payroll companies options for media commercials, feature film, and television:
 
-<section class="plug">
-Topsheet is serving the entertainment industry from Los Angeles, CA. Our company is born in technology and catered towards entertainment payroll. Our mobile app helps you run and wrap your sets up to 25X faster than traditional payroll processing. 
+> [Topsheet](https://topsheet.io) is serving the entertainment industry from Los Angeles, CA. Our company is born in technology and catered towards entertainment payroll. Our mobile app helps you run and wrap your sets up to 25X faster than traditional payroll processing. 
 
-Topsheet helps feature films, commercials, and (soon) television submit payroll like never before. Our flat fee is 2% of the payroll. Let us help your business affairs. Talk to us today to start your project: https://topsheet.io/signup
-</section>
-
-TOPSHEET PAYROLL CONTACT INFO
-
-Headquarters: Burbank,  CA
-Entertainment Partners Payroll Address: 2950 N. Hollywood Way, Burbank, CA 91505
-Entertainment Partners Phone Number:  818-955-6000
+> [Topsheet](https://topsheet.io) helps feature films, commercials, and (soon) television submit payroll like never before. Our flat fee is 2% of the payroll. Let us help your business affairs. Talk to us today to start your project: [https://topsheet.io/signup](https://topsheet.io/signup)
 
 
+## 1. [Entertainment Partners](http://ep.com/)
 
-1. Entertainment Partners
-
-Entertainment Partners (EP) is an entertainment payroll company in Los Angeles. They have been processing payroll since 1976. They are well-known in feature film and television.
+[Entertainment Partners](http://ep.com/) (EP) is an entertainment payroll company in Los Angeles. They have been processing payroll since 1976. They are well-known in feature film and television.
 
 EP handles onboarding, tax information, and crew payroll. But, you have to submit payroll to their production accountants to review. Only then can you complete your payroll processing. 
 
@@ -28,13 +19,13 @@ EP is very good for handling union agreements, talent payments, and pension & he
 
 **ENTERTAINMENT PARTNERS PAYROLL CONTACT INFO**
 
-Headquarters: Burbank,  CA
-Entertainment Partners Payroll Address: 2950 N. Hollywood Way, Burbank, CA 91505
-Entertainment Partners Phone Number:  818-955-6000
+- Headquarters: Burbank,  CA
+- Entertainment Partners Payroll Address: 2950 N. Hollywood Way, Burbank, CA 91505
+- Entertainment Partners Phone Number:  818-955-6000
 
-2. Media Services
+## 2. [Media Services](https://www.mediaservices.com/)
 
-Media Services is created by accountants. They offer production payroll for the film industry. They also offer in-house accounting and on-production accounting.
+[Media Services](https://www.mediaservices.com/) is created by accountants. They offer production payroll for the film industry. They also offer in-house accounting and on-production accounting.
 
 Media Services is mostly used by indie films and low-budget commercials. Like other entertainment payroll services, you will need to call to request a quote.
 
@@ -42,13 +33,13 @@ Media Services offer a line of apps called ShowBiz. Their focus is to tackle bud
 
 **MEDIA SERVICES CONTACT INFO**
 
-Headquarters: Westwood, CA
-Media Services Phone Number: 310-471-9369
-Media Services Address: 500 S Sepulveda Blvd. Floor 4, Los Angeles, CA 90049
+- Headquarters: Westwood, CA
+- Media Services Phone Number: 310-471-9369
+- Media Services Address: 500 S Sepulveda Blvd. Floor 4, Los Angeles, CA 90049
 
-3. Cast and Crew
+## 3. [Cast and Crew](http://castandcrew.com/)
 
-Cast and Crew is a great production payroll company based in Los Angeles. They are an excellent solution for payroll processing on high-budget projects. Cast and Crew offers a full human resources (HR) experience. They can also handle live theater payroll. 
+[Cast and Crew](http://castandcrew.com/) is a great production payroll company based in Los Angeles. They are an excellent solution for payroll processing on high-budget projects. Cast and Crew offers a full human resources (HR) experience. They can also handle live theater payroll. 
 
 Cast and crew is the go-to company for producing a play or theater experience. They are highly trusted on Broadway for payroll.
 
@@ -56,11 +47,11 @@ Like the other payroll companies, you will need to request a quote for your prod
 
 **CAST AND CREW CONTACT INFO**
 
-Headquarters: Burbank, CA
-Cast and Crew Payroll Services Phone Number: 818-848-6022
-Cast and Crew Payroll Services Address: 2300 Empire Avenue, 5th Floor, Burbank, CA 91504
+- Headquarters: Burbank, CA
+- Cast and Crew Payroll Services Phone Number: 818-848-6022
+- Cast and Crew Payroll Services Address: 2300 Empire Avenue, 5th Floor, Burbank, CA 91504
 
-4. ABS Payroll
+## 4. [ABS Payroll](https://abspayroll.com/)
 
 ABS is used by indie film or commercials for payroll processing. They are tailored for low-budget projects. ABS Payroll can help accommodate explainer video shoots to low-budget feature films. 
 
@@ -68,6 +59,6 @@ ABS charges a weekly fee for their services. They currently do not have software
 
 **ABS ENTERTAINMENT PAYROLL SERVICES CONTACT INFO**
 
-Headquarters: Burbank, CA
-ABS Entertainment Payroll Services Address: 7530 N Glenoaks Blvd, Set 100, Burbank, CA 91504
-ABS Entertainment Payroll Services Phone Number: 818-848-9200
+- Headquarters: Burbank, CA
+- ABS Entertainment Payroll Services Address: 7530 N Glenoaks Blvd, Set 100, Burbank, CA 91504
+- ABS Entertainment Payroll Services Phone Number: 818-848-9200
