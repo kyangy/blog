@@ -2,6 +2,8 @@
 
 Production payroll services are distinct from other kinds of third-party payroll services. A production payroll firm is a full-service provider. The payroll provider processes accurate paychecks on time. They also pay all [payroll taxes](https://taxfoundation.org/what-are-payroll-taxes-and-who-pays-them/), [unemployment](https://www.edd.ca.gov/unemployment/), union fees, and [workers' compensation insurance](https://www.dol.gov/general/topic/workcomp).  The production payroll company works with the production accountants to submit payroll weekly.
 
+![Production Payroll Services](../imgs/chapter-1/numbers.jpg)
+
 ## The Role of the Entertainment Payroll Company
 
 The entertainment payroll company is the employer-on-record for production companies. It caters to the payroll of the cast and crew in the film, television, and commercial productions. Entertainment payroll companies must also understand the industry's wage and hour laws. The [California Wage Order for the Motion Picture Industry](https://www.dir.ca.gov/IWC/IWCArticle12.pdf) differs from other industries. The overtime rules, meal periods, and penalties are different for the crew in film. The payroll company must understand the regulations of the local unions and guilds. Collective bargaining agreements set the wage scales and benefits of the union employees. The rules vary significantly from one union to the next. It’s a hard road to walk alone. 
@@ -30,9 +32,9 @@ B. The work performed is outside the “usual course” of the hiring entity’
 
 C. The worker is customarily engaged in an independently established trade, occupation, or business of the same nature as that involved in the work performed.
 
-**Here are some helpful AB5 resources for producers:**
+Here are some helpful [AB5](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201920200AB5) resources regarding productions:
 
-- [How AB5 Affects Production CCompanies](https://topsheet.io/blog/everything-productions-need-to-know-ab5-law)
+- [How AB5 Affects Production Companies](https://topsheet.io/blog/everything-productions-need-to-know-ab5-law)
 - [AB5 Exemptions For Productions](https://topsheet.io/blog/ab5-exemptions-abc-production)
 
 Even if you can no longer classify workers as contractors, don’t worry. [Topsheet](https://topsheet.io) is here to help. We understand that production companies are team companies. It's essential for team companies to do things the right way. We are here to keep your team compliant, while you focus on shooting your vision. 
