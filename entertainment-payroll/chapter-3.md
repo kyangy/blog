@@ -6,8 +6,6 @@ For a production company, buying an annual insurance policy may be a great idea.
 
 > If you are a producer on set, you carry an enormous responsibility. This can mean serious financial, legal, or criminal consequences to you.
 
-![Production Insurance](https://github.com/topsheet/blog/blob/master/imgs/chapter-3/production-insurance.jpg?raw=true)
-
 ## What’s the difference between short-term or annual production insurance?
 
 Short-term policy covers you on a project basis. It can cover you on a single day of production or more.
@@ -15,6 +13,8 @@ Short-term policy covers you on a project basis. It can cover you on a single da
 Annual policy covers you if you are shooting all year-round.  You can cover all your projects at once. This policy if used by active production companies.
 
 It’s usually a good idea to get a quote for both short-term and annual policies. The difference in price is marginal when you have coverage all year round. 
+
+![Production Insurance](https://github.com/topsheet/blog/blob/master/imgs/chapter-3/production-insurance.jpg?raw=true)
 
 **Rule of thumb for annual policy:**
 
@@ -43,7 +43,7 @@ General liability coverage is required by most permit offices.
 
 Most production insurance policies cover rented and owned equipment. Rental houses for professional production gear requirement 250K - 500K minimum for rental equipment. 
 
-![Equipment Coverage](https://github.com/topsheet/blog/blob/master/imgs/chapter-3/equipment-coverage.jpg?raw=true)
+![Equipment Coverage](https://github.com/topsheet/blog/blob/master/imgs/chapter-3/equipment-rental.jpg?raw=true)
 
 ## Coverage areas
 
