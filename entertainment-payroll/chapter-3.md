@@ -4,9 +4,9 @@ Film production insurance protects your production company or project from liabi
 
 For a production company, buying an annual insurance policy may be a great idea. For a project, buying a short term film production policy is an excellent idea. A good policy protects the producer from liability related to injuries and accidents. Getting coverage for theft or loss and damage for rental equipment is handy. You can even get a policy that protects the production from libel. 
 
-<section class="highlight">
-If you are a producer on set, you carry an enormous responsibility. This can mean serious financial, legal, or criminal consequences to you.
-</section>
+> If you are a producer on set, you carry an enormous responsibility. This can mean serious financial, legal, or criminal consequences to you.
+
+![Production Insurance](https://github.com/topsheet/blog/blob/master/imgs/chapter-3/production-insurance.jpg?raw=true)
 
 ## What’s the difference between short-term or annual production insurance?
 
@@ -27,7 +27,7 @@ Both short term and annual insurance cost a few thousand dollars, at minimum. Yo
 
 ## Certificates of Insurance
 
-The film business operates very differently from other businesses. Bad things can happen at any time. You will need to able to issue Certificates of insurance (COIs) at any time for yourself.
+The film business operates very differently from other businesses. Bad things can happen at any time. You will need to able to issue [Certificates of insurance (COIs)](https://www.fivecolleges.edu/riskmgmt/forms/certificates_of_insurance) at any time for yourself.
 
 Remember to find good storage for all your documents for your gear and insurance on set. Store them in one central place. Back them up in the cloud. Having everything secured will make your production planning much simpler. 
 
@@ -42,6 +42,8 @@ General liability coverage is required by most permit offices.
 ## Equipment Coverage
 
 Most production insurance policies cover rented and owned equipment. Rental houses for professional production gear requirement 250K - 500K minimum for rental equipment. 
+
+![Equipment Coverage](https://github.com/topsheet/blog/blob/master/imgs/chapter-3/equipment-coverage.jpg?raw=true)
 
 ## Coverage areas
 
