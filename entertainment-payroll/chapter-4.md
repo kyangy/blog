@@ -10,12 +10,10 @@ Entertainment insurance brokers understand production policies. They will know h
 
 If your broker advertises renter or auto insurance, they are most likely not an entertainment insurance broker. 
 
-[8 best production insurance companies in LA]()
-
 ## Talking to the Entertainment Insurance Broker
 
 First off, make sure you have all the details regarding your production(s). Explain to the broker on how your production company functions. Tell them what kind(s) of project you are producing.
 
-Example: If you have animals, get animal-specific insurance. If you have explosions, get life insurance policy. 
+> **Example**: If you have animals, get animal-specific insurance. If you have explosions, get life insurance policy.
 
 Make sure you are covered for all the potential activities of your film. If something bad happens and you are not covered, the costs will be exponentially higher. 
