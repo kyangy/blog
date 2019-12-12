@@ -74,3 +74,13 @@ We have developed an automated payroll software that is the easiest payroll syst
 ### Final Thought
 
 This change in the law sucks for a lot of productions out there, but it’s not insurmountable. If I know one thing about filmmakers, it’s that they are creative and resilient. There is always a way. And we are here for you. Please call, text or email us with any questions or projects you have. You can download and [try our app for free](https://topsheet.io), and we also send our crew down to your set in LA for free to walk your teams through the process, so you don’t waste any time.
+
+### Resources
+
+[AB5 Bill](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201920200AB5): This is the Government page for the legal document.
+
+[Borello test](https://www.dir.ca.gov/dlse/faq_independentcontractor.htm): Information on the previous way that CA would judge an Independent Contractor.
+
+[Topsheet](https://topsheet.io): Production & Entertainment Payroll and Administration service that automates the process, making the transition easier to payroll.
+
+[AB5 Exemptions Blog](https://topsheet.io/blog/ab5-exemptions-abc-production): Blog about how to tell if you are exmpt from the AB5 law, using the ABC test they laid out.
