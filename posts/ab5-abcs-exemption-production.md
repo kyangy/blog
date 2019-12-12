@@ -24,20 +24,35 @@ C) The worker is customarily engaged in an independently established trade, occu
 ### But That’s Not All, Folks.
 
 Prior to the ABC test, there was the Borello test which considers the employer’s “right to control work details”. Under the right-of-control test it is, “not how much control a hirer exercises, but how much control the hirer retains the right to exercise.” Based on the verbiage, most assume that employers must comply with both the ABC test and the Borello test. However, that is not true. Based on the type of employment, you will fall under either the ABC or the Borello test. Here is a list of occupations, subject to certain licensing and other requirements, that are general exemptions to AB5, so the ABC test does not apply to them and they must use the Borello test:
+
 A) Doctors (physicians, surgeons, dentists, podiatrists, veterinarians, psychologists)
+
 B) Professionals (lawyers, architects, engineers)
+
 C) Professioanl Services (marketing, human resources aministrator, travel agents, graphic designers, grant writers, fine artists)
+
 D) Financial services (accountants, securities broker-dealers, investment advisors)
+
 E) Insurance brokers
+
 F) Real Estate agents
+
 G) Direct sales (if compensation is based on actual sales and not wholesale purchases or referrals)
+
 H) Builders and contractors
+
 I) Freelance writers and photographers (if contributes no more than 35 submissions to an outlet in a year)
+
 J) Hairstylists and barbers (if licensed and if able to set own rates and schedule)
+
 K) Estheticians, electrologists, and manicurists (if licensed)
+
 L) Tutors (that teach their own curriculum and are not public school tutors)
+
 M) Commercial fishermen
+
 N) AAA-afiliated tow truck drivers
+
 All other occupations are covered under AB-5, so the ABC test applies.
 
 The Borello test factors are as follows:
