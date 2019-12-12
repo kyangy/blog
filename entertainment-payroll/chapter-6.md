@@ -7,5 +7,3 @@ You will need to consider the cost of the payroll service. Every payroll company
 > At [Topsheet](https://topsheet.io) we always charge one flat rate for processing payroll for all project types, [2%](https://topsheet.io/pricing).
 
 > Some companies will charge additional fees for certain items. They may charge a fee for audit reports. They may charge a fee per mistake. They may also charge a fee per check. 
-
-> At [Topsheet](https://topsheet.io), we always only charge one flat rate of 2% there are no added fees of any kind.
