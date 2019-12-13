@@ -1,6 +1,10 @@
 # Understanding Workers’ Compensation Insurance
 
-Workers' compensation policies protect your cast and crew. 
+Workers' compensation policies protect your cast and crew. In most states, you cannot have employees without workers' compensation insurance.
+
+The cost of workers' compensation may vary based on the risk of the employee:
+
+> Example: If you have an employee who works in front of the computer all day, their workers' compensation insurance rate will be cheaper than the employee who rigs lighting 30 feet off the ground. 
 
 You need workers’ compensation if:
 

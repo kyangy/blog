@@ -31,6 +31,8 @@ The film business operates very differently from other businesses. Bad things ca
 
 Remember to find good storage for all your documents for your gear and insurance on set. Store them in one central place. Back them up in the cloud. Having everything secured will make your production planning much simpler. 
 
+For a free option to store your Certificate of Insurance in the cloud, use [Google Drive](https://www.google.com/drive/). They provide free security features along with redundancies to keep your documents safe.
+
 ## General Liability Insurance
 
 You will always need general liability insurance. General liability covers bodily injury and property damage during filming. 
@@ -41,7 +43,7 @@ General liability coverage is required by most permit offices.
 
 ## Equipment Coverage
 
-Most production insurance policies cover rented and owned equipment. Rental houses for professional production gear requirement 250K - 500K minimum for rental equipment. 
+Most production insurance policies cover rented and owned equipment. Rental houses for professional production gear requirement 250K - 500K minimum for rental equipment. Most rental houses won't let you rent without production insurance, or put a credit card that covers the full cost of the items.
 
 ![Equipment Coverage](https://github.com/topsheet/blog/blob/master/imgs/chapter-3/equipment-rental.jpg?raw=true)
 
